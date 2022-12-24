@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.kizkulesi {
+  background-image: url(https://www.yerelnet.org.tr/cdn/uploads/muze/36.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom center;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  background-color: #6c6c73;
+  background-image: linear-gradient(
+    43deg,
+    #6c6c73 0%,
+    #c85050 46%,
+    #ffffff 100%
+  );
+  opacity: 0.7;
+  border: none;
+  border-radius: 32px 0px;
+  font-size: 48px;
+  font-weight: 900;
+  font-family: "Lato", sans-serif;
+  padding: 32px;
+  letter-spacing: 10px;
+  color: aliceblue;
+  outline: 15px outset grey;
+  outline-offset: 15px;
+}
+h1:hover {
+  outline: 10px groove white;
+  outline-style: ;
+}
+.amerika {
+  background-image: url(https://www.duvargiydir.com/media/catalog/product/h/c/hcty0126-manzarali-duvar-kagidi-ev-dekorasyon-ozgurluk-heykeli.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom center;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fransa {
+  background-image: url(https://besthqwallpapers.com/Uploads/14-8-2018/61682/paris-eiffel-tower-evening-sunset-clouds.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom center;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.italya {
+  background-image: url(https://i0.wp.com/www.tripilare.com/us/wp-content/uploads/2021/11/pisa-leaning-tower-leaning-tower-of-pisa-fall-Why-is-the-Leaning-Tower-of-Pisa-leaning-scaled.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mısır {
+  background-image: url(https://wallpaperaccess.com/full/146800.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.çin {
+  background-image: url(https://images8.alphacoders.com/357/357222.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.paragraf {
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: inherit;
+  background-color: #f0eaea;
+  background-image: linear-gradient(160deg, #f0eaea 0%, #1a1919 100%);
+
+  padding: 45px;
+}
+.paragraf h2 {
+  color: #f0eaea;
+  margin-bottom: 10px;
+}
+.paragraf p {
+  color: #f0eaea;
+}
+footer {
+  text-align: center;
+}
